@@ -1,2 +1,2 @@
 # TestGithub
-Learning Github
+TestGithub is a respository for showing the bare minimums of github
